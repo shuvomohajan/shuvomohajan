@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have been working as a software developer for **`4+ years`**. I always Intend to work in a challenging and
+I have been working as a software developer for **4+ years**. I always Intend to work in a challenging and
 competitive environment where a strong sense of responsibility and commitment is required, where the
 place of the work provides potential avenues for learning, growing, and achieving a top position in the
 hierarchy of the organization.
@@ -50,10 +50,8 @@ hierarchy of the organization.
 
 ### ✔ Github Activities
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvomohajan&langs_count=8&layout=compact&theme=dark#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvomohajan&langs_count=8&layout=compact&theme=default#gh-light-mode-only)
-![Shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvomohajan&show_icons=true&theme=dark#gh-dark-mode-only)
-![Shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvomohajan&show_icons=true&theme=default#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvomohajan&langs_count=8&layout=compact&theme=dark)
+![Shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvomohajan&show_icons=true&theme=dark)
 
 <a href="https://www.buymeacoffee.com/shuvomohajan">
   <img alt="Buy Me A Coffee" width="180px" src="https://cdn.buymeacoffee.com/buttons/default-red.png" />
