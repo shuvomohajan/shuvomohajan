@@ -1,17 +1,11 @@
 ### Hi there 👋
 
-I have been working as a software developer for **4+ years**. I always Intend to work in a challenging and
-competitive environment where a strong sense of responsibility and commitment is required, where the
-place of the work provides potential avenues for learning, growing, and achieving a top position in the
-hierarchy of the organization.
-
 - 🔭 I’m currently working on [Bit Apps](https://bitapps.pro/)
-- 🌱 I’m currently learning DSA, OOP, Clean Code, Design Patterns, Design Principle, SOLID, TDD, DDD, Microservices, Docker, CI/CD, Agile, Scrum, etc.
+- 🌱 I’m currently learning DSA, OOP, Clean Code, Design Patterns, Design Principles, TDD, Microservices, Scrum, CI/CD, Docker, etc.
 - 👯 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/shuvomohajan)
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shuvomohajan)
+- 📫 Reach me at [Linkedin](https://www.linkedin.com/in/shuvomohajan)
 
-<!-- languages and tools with spacial logo -->
+<!-- languages and tools with special logo -->
 
 ### ✔ Languages and Tools
 
@@ -19,7 +13,7 @@ hierarchy of the organization.
 
 ![php](https://img.shields.io/badge/-php-000?&style=for-the-badge&logo=php&logoColor=777BB4)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&style=for-the-badge&logo=Laravel&logoColor=FF2D20)
-![Next.js dark-logo](https://img.shields.io/badge/-Next.js-000?&style=for-the-badge&logo=Next.js&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&style=for-the-badge&logo=Next.js&logoColor=ffffff)
 
 <!-- Database -->
 
@@ -32,7 +26,7 @@ hierarchy of the organization.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&style=for-the-badge&logo=JavaScript&logoColor=ddc508)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&style=for-the-badge&logo=TypeScript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-000?&style=for-the-badge&logo=React&logoColor=61DAFB)
-![Next.js dark-logo](https://img.shields.io/badge/-Next.js-000?&style=for-the-badge&logo=Next.js&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&style=for-the-badge&logo=Next.js&logoColor=ffffff)
 
 <!-- Tools and Platforms -->
 
@@ -53,6 +47,7 @@ hierarchy of the organization.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvomohajan&langs_count=8&layout=compact&theme=dark)
 ![Shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvomohajan&show_icons=true&theme=dark)
 
-<a href="https://www.buymeacoffee.com/shuvomohajan">
+<!-- <a href="https://www.buymeacoffee.com/shuvomohajan">
   <img alt="Buy Me A Coffee" width="180px" src="https://cdn.buymeacoffee.com/buttons/default-red.png" />
-</a>
+</a> -->
+
