@@ -1,4 +1,4 @@
-<img src="./github_readme_cover.png" style="width: 100%" alt="readme cover" />
+<img src="./github_readme_cover.svg" style="width: 100%" alt="readme cover" />
 
 - 🔭 I’m currently working on [Bit Apps](https://bitapps.pro/)
 - 🌱 I’m currently learning DSA, OOP, Clean Code, Design Patterns, Design Principles, TDD, Microservices, Scrum, CI/CD, Docker, etc.
